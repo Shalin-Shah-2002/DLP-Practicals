@@ -22,7 +22,7 @@ int main() {
     if (regex_match(input, "^a*bb$")) {
         printf("Valid string\n");
     } else {
-        printf("Invalid string\n");
+        printf("Invalid sttring\n");
     }
     return 0;
 }
